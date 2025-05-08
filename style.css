@@ -191,6 +191,10 @@ svg {
     padding-right: 5rem;
   }
 
+  .left-top-flex h1 {
+    margin-right: 6rem !important;
+  }
+
   .left-top-flex, .rating-flex {
     width: 100%;
   }
@@ -243,8 +247,8 @@ svg {
     gap: 7rem;
   }
 
-  .left-top-flex h1 {
-    margin-right: 12rem;
+  .left-top-flex {
+    padding-right: 14rem;
   }
 
   .rating-flex {
@@ -298,6 +302,7 @@ svg {
   .left-top-flex {
     padding-right: 10rem;
   }
+
   .left-top-flex h1 {
     margin-right: 8rem;
     font-size: 5rem;
